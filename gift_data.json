@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "data": {
+        "id": "6aed60941772b3dc437a6bf9",
+        "introText": "Chúc mừng ngày\nNhà Giáo Việt Nam\n20/11",
+        "memoryFilmEnabled": false,
+        "memoryPhotos": [],
+        "letterTitle": "Kính gửi cô,",
+        "letterContent": [
+            "Ngày 20/11 đến, lòng em tràn ngập niềm vui và lòng biết ơn.",
+            "Em nhớ những ngày đầu tiên bỡ ngỡ bước vào lớp, cô đã ân cần dìu dắt em từng bước. Giờ đây, em đã trưởng thành hơn nhờ những bài học quý giá mà cô đã dạy.",
+            "Cô không chỉ là người dạy học mà còn là người bạn, người mẹ thứ hai của em. Tình cảm ấy em sẽ mãi ghi nhớ trong tim.",
+            "Em chúc cô luôn vui vẻ, thành công trong sự nghiệp trồng người và có thật nhiều sức khỏe."
+        ],
+        "letterSignature": "Tran Hug",
+        "musicType": "Sample",
+        "musicPath": "https://pub-b20e97fa235346679eb882246abe5bed.r2.dev/uploads/admin-edit-20261101-104713-m6lsdg.mp3",
+        "customMusic": null,
+        "createdAt": "2026-11-06T05:07:32.972Z",
+        "updatedAt": "2026-11-06T05:07:32.972Z"
+    }
+}
